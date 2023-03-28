@@ -6,7 +6,11 @@
 /* LAYOUT
 /*******************************************/
 body{
-  background-color: lightgreen;
+  background: black;
+  background-image: url(images/golf-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
 img{
   display: block;
