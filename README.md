@@ -4,7 +4,7 @@ Learn what each number below/above par is called when finishing a hole!
 
 Link to project: https://golf-strokes-app.netlify.app/
 
-![Screenshot](public/imgs/beer-helper-screenshot.png)
+![Screenshot](images/golf-app.png)
 
 How It's Made: Basic application with a conditional that calculates what you shot on that hole based on par and strokes.  
 Tech used: HTML, CSS, Javascript
