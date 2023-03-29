@@ -9,7 +9,9 @@ function check() {
  
    if(strokes == 1 ){
     document.getElementById("placeToSee").innerHTML = "Hole in One!"
-  }else if(strokes <= par -2){
+  }else if(strokes <= par -3){
+    document.getElementById("placeToSee").innerHTML = "Albatross!"
+  }else if(strokes == par -2){
     document.getElementById("placeToSee").innerHTML = "Eagle!"
   }else if(strokes == par -1){
     document.getElementById("placeToSee").innerHTML = "Birdie!"
